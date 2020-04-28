@@ -118,13 +118,13 @@ function Offerings() {
       <div>
         <div>
           <img
-            src="./Offerings _ Speciality Coffee Cart For Events _ Matt Black Coffee_files/5d136c9e4b05c822d4fdf588_Mork.png"
+            src="https://uploads-ssl.webflow.com/5c7704f8d2ffcfbffbd4db7e/5d136c9e4b05c822d4fdf588_Mork.png"
             alt="Single origin coffees"
             width="450"
-            // srcset="
-            //     https://uploads-ssl.webflow.com/5c7704f8d2ffcfbffbd4db7e/5d136c9e4b05c822d4fdf588_Mork-p-500.png 500w,
-            //     https://uploads-ssl.webflow.com/5c7704f8d2ffcfbffbd4db7e/5d136c9e4b05c822d4fdf588_Mork.png       900w
-            //   "
+            srcset="
+                https://uploads-ssl.webflow.com/5c7704f8d2ffcfbffbd4db7e/5d136c9e4b05c822d4fdf588_Mork-p-500.png 500w,
+                https://uploads-ssl.webflow.com/5c7704f8d2ffcfbffbd4db7e/5d136c9e4b05c822d4fdf588_Mork.png       900w
+              "
             sizes="(max-width: 767px) 88vw, (max-width: 991px) 47vw, 40vw"
           />
         </div>

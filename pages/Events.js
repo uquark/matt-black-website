@@ -16,6 +16,7 @@ function Events() {
       <a href="https://www.mattblack.coffee/contact">
         Get in touch to learn more
       </a>
+      <img src="https://uploads-ssl.webflow.com/5c7704f8d2ffcfbffbd4db7e/5cd7dbf92580854d4fb31734_pour_over-p-1600.jpeg" />
       <h2>
         <span>Only the best coffee.</span> And more.
       </h2>
