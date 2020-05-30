@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <Grommet plain>
       <Head>
-        <title>Create Next App</title>
+        <title>Matt Black Coffee</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
