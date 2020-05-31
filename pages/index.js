@@ -9,17 +9,19 @@ export default function Home() {
   return (
     <Grommet plain>
       <Head>
-        <title>Matt Black Coffee</title>
+        {/*Need to start pulling meta data from the strapi CMS*/}
+        <title>Coffee Cart For Events | Cafe Quality Speciality Coffee & Tea | Matt Black Coffee</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
+      {/* Need to add routing*/}
       <Events />
-      <hr />
+      {/* <hr />
       <Offerings />
       <hr />
       <Pricing />
       <hr />
-      <Packages />
+      <Packages /> */}
     </Grommet>
   );
 }
