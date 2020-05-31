@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Grommet } from 'grommet';
+import { Grommet } from "grommet";
 
 import Events from "./Events";
 import Offerings from "./Offerings";
@@ -12,7 +12,7 @@ export default function Home() {
         <title>Matt Black Coffee</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      
+
       <Events />
       <hr />
       <Offerings />
