@@ -1,0 +1,8 @@
+{
+    "esversion": 9,
+    "curly": true,
+    "bitwise": true,
+    "forin": true,
+    "nonew": true,
+    "elision": true
+}
